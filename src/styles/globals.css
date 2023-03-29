@@ -1,0 +1,139 @@
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-Light.eot");
+  src: local("Industry Light"), local("Industry-Light"),
+    url("/fonts/Industry-Light.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-Light.woff") format("woff"),
+    url("/fonts/Industry-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-Bold.eot");
+  src: local("Industry Bold"), local("Industry-Bold"),
+    url("/fonts/Industry-Bold.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-Bold.woff") format("woff"),
+    url("/fonts/Industry-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-BoldItalic.eot");
+  src: local("Industry Bold Italic"), local("Industry-BoldItalic"),
+    url("/fonts/Industry-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-BoldItalic.woff") format("woff"),
+    url("/fonts/Industry-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-LightItalic.eot");
+  src: local("Industry Light Italic"), local("Industry-LightItalic"),
+    url("/fonts/Industry-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-LightItalic.woff") format("woff"),
+    url("/fonts/Industry-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Industry-Book";
+  src: url("/fonts/Industry-Book.eot");
+  src: local("Industry Book"), local("Industry-Book"),
+    url("/fonts/Industry-Book.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-Book.woff") format("woff"),
+    url("/fonts/Industry-Book.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-BlackItalic.eot");
+  src: local("Industry Black Italic"), local("Industry-BlackItalic"),
+    url("/fonts/Industry-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-BlackItalic.woff") format("woff"),
+    url("/fonts/Industry-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Industry-BookItalic";
+  src: url("/fonts/Industry-BookItalic.eot");
+  src: local("Industry Book Italic"), local("Industry-BookItalic"),
+    url("/fonts/Industry-BookItalic.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-BookItalic.woff") format("woff"),
+    url("/fonts/Industry-BookItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Industry-DemiItalic";
+  src: url("/fonts/Industry-DemiItalic.eot");
+  src: local("Industry Demi Italic"), local("Industry-DemiItalic"),
+    url("/fonts/Industry-DemiItalic.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-DemiItalic.woff") format("woff"),
+    url("/fonts/Industry-DemiItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-Black.eot");
+  src: local("Industry Black"), local("Industry-Black"),
+    url("/fonts/Industry-Black.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-Black.woff") format("woff"),
+    url("/fonts/Industry-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-Medium.eot");
+  src: local("Industry Medium"), local("Industry-Medium"),
+    url("/fonts/Industry-Medium.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-Medium.woff") format("woff"),
+    url("/fonts/Industry-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Industry";
+  src: url("/fonts/Industry-MediumItalic.eot");
+  src: local("Industry Medium Italic"), local("Industry-MediumItalic"),
+    url("/fonts/Industry-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-MediumItalic.woff") format("woff"),
+    url("/fonts/Industry-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Industry-Demi";
+  src: url("/fonts/Industry-Demi.eot");
+  src: local("Industry Demi"), local("Industry-Demi"),
+    url("/fonts/Industry-Demi.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/Industry-Demi.woff") format("woff"),
+    url("/fonts/Industry-Demi.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,31 @@
+{
+  "headers": [
+    {
+      "source": "/:all*(ttf|eot|woff|woff2|png|svg|ico)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/discord",
+      "destination": "https://discord.gg/vyasty"
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/vyast"
+    },
+    {
+      "source": "/twitch",
+      "destination": "https://www.twitch.tv/vyast"
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/vyasts"
+    }
+  ]
+}

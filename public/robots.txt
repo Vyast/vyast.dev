@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vyast.dev/sitemap-index.xml

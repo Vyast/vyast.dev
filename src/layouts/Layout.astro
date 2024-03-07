@@ -18,11 +18,14 @@ const { title } = Astro.props;
   class="antialiased bg-topography bg-[#0d0d0d] text-white font-industry"
 >
   <Seo title={title} />
+
   <body class="flex min-h-screen flex-col mx-auto max-w-xl px-4">
     <Header />
+
     <main>
       <slot />
     </main>
+
     <Footer />
   </body>
 </html>
